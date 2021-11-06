@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\bin\Debug\net5.0\Mediator.exe
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\bin\Debug\net5.0\Mediator.deps.json
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\bin\Debug\net5.0\Mediator.runtimeconfig.json
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\bin\Debug\net5.0\Mediator.runtimeconfig.dev.json
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\bin\Debug\net5.0\Mediator.dll
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\bin\Debug\net5.0\ref\Mediator.dll
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\bin\Debug\net5.0\Mediator.pdb
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\obj\Debug\net5.0\Mediator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\obj\Debug\net5.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\obj\Debug\net5.0\Mediator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\obj\Debug\net5.0\Mediator.AssemblyInfo.cs
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\obj\Debug\net5.0\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\obj\Debug\net5.0\Mediator.dll
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\obj\Debug\net5.0\ref\Mediator.dll
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\obj\Debug\net5.0\Mediator.pdb
+C:\Users\User\Desktop\BYT\BYT\Task_4_5\Mediator_solution\Mediator\obj\Debug\net5.0\Mediator.genruntimeconfig.cache
